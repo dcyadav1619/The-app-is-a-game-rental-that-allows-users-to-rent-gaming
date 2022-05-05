@@ -1,0 +1,15 @@
+[{
+    "Seller Username": "TestSeller1", 
+    "Product ID": "IHEG", 
+    "Product Title": "Far Cry 2", 
+    "Product Type": "Game CD", 
+    "Price Per Day": 70, 
+    "Total Stock Available": 10}, 
+    {
+        "Seller Username": "TestSeller2", 
+        "Product ID": "D3KX", 
+        "Product Title": "CosmicByte", 
+        "Product Type": "Gaming Keyboard", 
+        "Price Per Day": 100, 
+        "Total Stock Available": 5
+        }]

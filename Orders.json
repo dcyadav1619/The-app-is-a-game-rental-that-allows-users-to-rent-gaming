@@ -1,0 +1,17 @@
+[{
+    "Order ID": "OHF", 
+    "Ordered by": "TestGamer1", 
+    "Items": [{
+        "Product ID": "IHEG", 
+        "Quantity": 2, 
+        "Price": 70, 
+        "Booking Start Date": "2022-10-13", 
+        "Booking End Date": "2022-11-13"}, 
+        {
+            "Product ID": "D3KX", 
+            "Quantity": 1, 
+            "Price": 100, 
+            "Booking Start Date": "2022-09-13", 
+            "Booking End Date": "2022-09-15"}], 
+            "Total Cost": 4540
+            }]
