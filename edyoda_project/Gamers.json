@@ -1,0 +1,24 @@
+[{
+    "Email": "Gamer1@gmail.com", 
+    "Username": "TestGamer1", 
+    "Password": "Gamer1", 
+    "Contact Number": "6667778899", 
+    "Wishlist": [], 
+    "Cart": [{
+        "Product ID": "IHEG", 
+        "Quantity": 2, 
+        "Price": 70, 
+        "Booking Start Date": "2022-10-13", 
+        "Booking End Date": "2022-11-13"}, 
+        {
+            "Product ID": "D3KX", 
+            "Quantity": 1, 
+            "Price": 100, 
+            "Booking Start Date": "2022-09-13", 
+            "Booking End Date": "2022-09-15"}]}, 
+    {"Email": "Gamer2@gmail.com", 
+        "Username": "TestGamer2", 
+        "Password": "Gamer2", 
+        "Contact Number": "9876543210", 
+        "Wishlist": ["D3KX"], 
+        "Cart": []}]
